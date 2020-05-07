@@ -1,0 +1,19 @@
+thead th {
+    background:green;
+    color:white;
+    padding:10px;
+    text-align: center;
+
+}
+
+tbody td {
+    background:rgb(251,251,0);
+    color: red;
+    text-align: center;
+}
+
+tfoot td {
+    background:blueviolet;
+    color: white;
+    text-align: center;
+}
